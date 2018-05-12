@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1188
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Perry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29952#The-American-MindThe-E.-T.-Earl-Lectures
 gutenberg_issued: '2009-09-10'
 gutenberg_type: Text
 identifiers:
